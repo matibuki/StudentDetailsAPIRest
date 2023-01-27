@@ -1,0 +1,10 @@
+urlData:
+  baseURL: https://thetestingworldapi.com/
+  apiPath: api/
+  endpoint: studentsDetails/
+testData:
+  studentFirstName: Mat
+  studentMiddleName: Matty
+  studentLastName: Travolta
+  studentDateOfBirth: 01/01/1990
+  errorMsg: No data Found
